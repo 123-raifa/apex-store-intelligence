@@ -1,0 +1,16 @@
+{"event_id":"ev-001","store_id":"ST1076","visitor_id":"vis-001","event_type":"ENTRY","timestamp":"2026-06-04T08:00:00Z","confidence":0.95,"is_staff":false}
+{"event_id":"ev-002","store_id":"ST1076","visitor_id":"vis-002","event_type":"ENTRY","timestamp":"2026-06-04T08:05:00Z","confidence":0.99,"is_staff":true}
+{"event_id":"ev-003","store_id":"ST1076","visitor_id":"vis-001","event_type":"ZONE_ENTER","zone_id":"MENS","timestamp":"2026-06-04T08:06:00Z","confidence":0.9,"is_staff":false}
+{"event_id":"ev-004","store_id":"ST1076","visitor_id":"vis-003","event_type":"ENTRY","timestamp":"2026-06-04T08:10:00Z","confidence":0.92,"is_staff":false}
+{"event_id":"ev-005","store_id":"ST1076","visitor_id":"vis-001","event_type":"ZONE_DWELL","zone_id":"MENS","dwell_ms":300000,"timestamp":"2026-06-04T08:11:00Z"}
+{"event_id":"ev-006","store_id":"ST1076","visitor_id":"vis-003","event_type":"ZONE_ENTER","zone_id":"WOMENS","timestamp":"2026-06-04T08:12:00Z","confidence":0.94,"is_staff":false}
+{"event_id":"ev-007","store_id":"ST1076","visitor_id":"vis-001","event_type":"BILLING_QUEUE_JOIN","timestamp":"2026-06-04T08:15:00Z","confidence":0.95,"metadata":{"queue_depth":1},"is_staff":false}
+{"event_id":"ev-008","store_id":"ST1076","visitor_id":"vis-003","event_type":"ZONE_DWELL","zone_id":"WOMENS","dwell_ms":120000,"timestamp":"2026-06-04T08:16:00Z"}
+{"event_id":"ev-009","store_id":"ST1076","visitor_id":"vis-001","event_type":"CHECKOUT_START","timestamp":"2026-06-04T08:16:30Z","confidence":0.95,"is_staff":false}
+{"event_id":"ev-010","store_id":"ST1076","visitor_id":"vis-004","event_type":"ENTRY","timestamp":"2026-06-04T08:20:00Z","confidence":0.91,"is_staff":false}
+{"event_id":"ev-011","store_id":"ST1076","visitor_id":"vis-003","event_type":"BILLING_QUEUE_JOIN","timestamp":"2026-06-04T08:25:00Z","confidence":0.95,"metadata":{"queue_depth":1},"is_staff":false}
+{"event_id":"ev-012","store_id":"ST1076","visitor_id":"vis-003","event_type":"BILLING_QUEUE_ABANDON","timestamp":"2026-06-04T08:26:00Z","confidence":0.95,"metadata":{"queue_depth":0},"is_staff":false}
+{"event_id":"ev-013","store_id":"ST1076","visitor_id":"vis-004","event_type":"ZONE_ENTER","zone_id":"SHOES","timestamp":"2026-06-04T08:25:00Z","confidence":0.91,"is_staff":false}
+{"event_id":"ev-014","store_id":"ST1076","visitor_id":"vis-004","event_type":"ZONE_DWELL","zone_id":"SHOES","dwell_ms":400000,"timestamp":"2026-06-04T08:31:00Z"}
+{"event_id":"ev-015","store_id":"ST1076","visitor_id":"vis-004","event_type":"BILLING_QUEUE_JOIN","timestamp":"2026-06-04T08:35:00Z","confidence":0.95,"metadata":{"queue_depth":1},"is_staff":false}
+{"event_id":"ev-016","store_id":"ST1076","visitor_id":"vis-004","event_type":"CHECKOUT_START","timestamp":"2026-06-04T08:37:00Z","confidence":0.95,"is_staff":false}
